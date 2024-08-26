@@ -1,1 +1,1 @@
-# Web_scraping_For_SpanishVocabulary
+# Web_scraping_SpanishVocabulary
